@@ -13,7 +13,10 @@ pip 9.0.1
 ## To run:
 
 Change directory to tokenParseMEWToMany
+  
   'cd ...\tokenParseMEWToMany' 
+
 Run
+  
   'python tokenParseMEWToMany.py'
  
