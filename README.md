@@ -15,13 +15,13 @@ pip 9.0.1
 
 Change directory to tokenParseMEWToMany
   
-  '''
+  ```
   cd ...\tokenParseMEWToMany
-  ''' 
+  ```
 
 Run
   
-  '''
+  ```
   python tokenParseMEWToMany.py
-  '''
+  ```
  
